@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: Harshit Pandey (https://github.com/HarshitPandey251)
+- Place: Indore
+- Bio: Web developer
+-Github: https://github.com/HarshitPandey251
